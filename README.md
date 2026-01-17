@@ -139,9 +139,7 @@ pip install torch torchvision opencv-python mobile-sam
 | **DINOv2 权重** | `vit-dinov2-base.npz` | 放置于项目根目录或 `backend/` 下。 |
 | **MobileSAM 权重** | `mobile_sam.pt` | 仅在使用分割功能时需要。 |
 
----
 
-这是根据你的最新要求修改后的「数据库配置」部分。你可以直接替换 README.md 中对应的段落：
 
 ---
 
